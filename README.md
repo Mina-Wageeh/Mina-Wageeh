@@ -1,7 +1,7 @@
 <h1 align="center">⭐ Hello I'm Mina Wageh ⭐</h1>
 
 <p align="center">
-  Backend Developer | PHP & Laravel | API Architect | Clean Code Enthusiast
+  🔥 Backend Developer | PHP & Laravel | API Architect | Clean Code Enthusiast 🔥
 </p>
 
 ---
