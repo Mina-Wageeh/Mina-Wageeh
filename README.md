@@ -1,15 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mina WAGEH</h1>
 
+<p align="center">
+  Back-End Developer | PHP & Laravel | API Architect | Clean Code Enthusiast
+</p>
 
-**Mina-Wageeh/Mina-Wageeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 PHP, Laravel, MySQL
+- 🧰 RESTful APIs, Postman
+- 🐳 Docker, Git, Linux
+
+---
+
+### 📫 Contact Me
+
+- Email: you@example.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
