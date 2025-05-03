@@ -16,5 +16,5 @@
 
 ### 📫 Contact Me
 
-- Phone : +201273489204
-- Email : mina.wageh.it@gmail.com
+📞 Phone : +201273489204
+📧 Email : mina.wageh.it@gmail.com
