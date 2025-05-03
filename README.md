@@ -1,12 +1,24 @@
 <h1 align="center">⭐ Hello I'm Mina Wageh ⭐</h1>
 
 <p align="center">
-  Back-End Developer | PHP & Laravel | API Architect | Clean Code Enthusiast
+  Backend Developer | PHP & Laravel | API Architect | Clean Code Enthusiast
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Technical SKills
+•	Front End
+-	HTML
+-	CSS
+-	Bootstrap
+-	JavaScript
+-	JQuery
+
+•	Back End
+-	PHP
+-	Laravel
+-	APIs
+
 
 - 💻 PHP, Laravel, MySQL
 - 🧰 RESTful APIs, Postman
@@ -16,5 +28,5 @@
 
 ### 📫 Contact Me
 
-- Email: you@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Phone : +201273489204
+- Email : mina.wageh.it@gmail.com
