@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mina WAGEH</h1>
+<h1 align="center" style="color:yello">Hi, I'm Mina Wageh</h1>
 
 <p align="center">
   Back-End Developer | PHP & Laravel | API Architect | Clean Code Enthusiast
