@@ -6,8 +6,6 @@
 
 ---
 
-### 🚀 Technical SKills
-<span style="color:orange">Technical SKills</span>
 🎨 Front End : HTML - CSS - Bootstrap - JavaScript - JQuery
 
 🛠️ Back End : PHP - Laravel - APIs
