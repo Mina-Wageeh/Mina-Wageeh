@@ -8,13 +8,13 @@
 
 ### 🚀 Technical SKills
 🎨 Front End<br>
-HTML & CSS & Bootstrap & JavaScript & JQuery
+  HTML - CSS - Bootstrap - JavaScript - JQuery
 
 🛠️ Back End<br>
-PHP & Laravel & APIs
+PHP - Laravel - APIs
 
 🛢️ Databases<br>
-SQL & MySQL & MariaDB
+SQL - MySQL - MariaDB
 
 ---
 
