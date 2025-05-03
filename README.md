@@ -1,4 +1,6 @@
-<h1 align="center">⭐ Hello I'm Mina Wageh ⭐</h1>
+<h1 align="center">⭐ Hello ⭐</h1>
+<h1 align="center">⭐ My Name Is Mina Wageh ⭐</h1>
+
 
 <p align="center">
   Backend Developer | PHP & Laravel | API Architect | Clean Code Enthusiast
