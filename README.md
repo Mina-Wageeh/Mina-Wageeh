@@ -1,4 +1,4 @@
-<h1 align="center">⭐ Mina Wageh Marzouk ⭐</h1>
+<h1 align="center">⭐ Mina Wageh Marzouk Rezk ⭐</h1>
 
 <p align="center">
   🔥 Backend Developer | PHP & Laravel | API Architect | Clean Code Enthusiast 🔥
